@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="edit_message">Location</string>
+
+    <string name="send">Search</string>
+    <string name="zoom">+</string>
+    <string name="zoom_out">-</string>
+
+
+    <string name="error">Cannot find this location</string>
+</resources>
